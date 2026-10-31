@@ -1,0 +1,81 @@
+review_id,appeal_id,reviewer_id,outcome,rationale,independence_verified,reviewed_at
+1,APL-000003,REV-028,OVERTURNED,Upon whom former necessary.,True,2026-02-23
+2,APL-000004,REV-022,OVERTURNED,Apply conference party.,True,2026-03-09
+3,APL-000005,REV-010,UPHELD,When put turn young defense worker.,True,2026-03-16
+4,APL-000006,REV-002,OVERTURNED,Piece history over benefit.,True,2026-03-15
+5,APL-000011,REV-015,UPHELD,Not century glass natural.,True,2026-03-11
+6,APL-000018,REV-028,OVERTURNED,Share play apply try every hope.,True,2026-02-24
+7,APL-000019,REV-014,OVERTURNED,Position skin pattern size.,True,2026-03-02
+8,APL-000020,REV-011,UPHELD,Check seem expect wind its.,True,2026-02-22
+9,APL-000022,REV-024,UPHELD,Focus wife present firm.,True,2026-03-15
+10,APL-000023,REV-030,OVERTURNED,Pm to find.,True,2026-03-08
+11,APL-000027,REV-014,OVERTURNED,Practice should myself anything job.,True,2026-02-25
+12,APL-000029,REV-011,UPHELD,Glass success alone fund near put chance.,True,2026-02-09
+13,APL-000035,REV-014,OVERTURNED,Leave strong view maintain case walk detail up.,True,2026-03-08
+14,APL-000036,REV-030,UPHELD,Throw stage avoid tend.,True,2026-03-17
+15,APL-000038,REV-007,UPHELD,He claim sort.,True,2026-03-16
+16,APL-000041,REV-018,UPHELD,Manage add very surface.,True,2026-02-27
+17,APL-000043,REV-007,OVERTURNED,Miss project us force.,True,2026-03-01
+18,APL-000047,REV-008,UPHELD,Citizen page me company name stuff sort.,True,2026-03-12
+19,APL-000051,REV-026,UPHELD,Trade daughter world office paper.,True,2026-02-11
+20,APL-000053,REV-011,OVERTURNED,Together trip letter leg add conference ten.,True,2026-03-09
+21,APL-000055,REV-019,UPHELD,Expert popular grow.,True,2026-02-12
+22,APL-000058,REV-027,UPHELD,Thing next set successful professional anything.,True,2026-02-24
+23,APL-000060,REV-019,UPHELD,Keep finally stuff huge election.,True,2026-03-11
+24,APL-000070,REV-024,OVERTURNED,Factor risk away thing power he.,True,2026-02-27
+25,APL-000072,REV-003,OVERTURNED,Peace well seven summer sign prevent.,True,2026-02-27
+26,APL-000074,REV-011,OVERTURNED,New thing perform case address city.,True,2026-02-16
+27,APL-000078,REV-026,OVERTURNED,Street among describe still discuss claim.,True,2026-03-02
+28,APL-000080,REV-008,OVERTURNED,Moment court need though him western she audience.,True,2026-02-16
+29,APL-000084,REV-016,UPHELD,Friend stay memory nearly week two.,True,2026-03-01
+30,APL-000086,REV-002,OVERTURNED,Chair by between might attack experience moment.,True,2026-02-16
+31,APL-000087,REV-023,OVERTURNED,Have avoid particularly chair.,True,2026-02-27
+32,APL-000088,REV-012,UPHELD,Stand according rock civil save enter mission.,True,2026-03-04
+33,APL-000013,REV-019,OVERTURNED,Parent often song fast.,False,2026-02-15
+34,APL-000037,REV-029,OVERTURNED,We share red her relationship second.,False,2026-03-02
+35,APL-000044,REV-026,UPHELD,Agency technology state perhaps.,False,2026-03-15
+36,APL-000024,REV-001,REMANDED,Central forward campaign.,False,2026-03-01
+37,APL-000062,REV-019,REMANDED,Huge billion black fast over late.,False,2026-02-28
+38,APL-000034,REV-002,REMANDED,Protect especially light teach strong during.,False,2026-02-27
+39,APL-000064,REV-003,OVERTURNED,Who goal speak serious remember detail style.,False,2026-03-03
+40,APL-000040,REV-016,UPHELD,Development local fund natural old over.,False,2026-02-22
+41,APL-000033,REV-008,OVERTURNED,Front person size.,False,2026-02-23
+42,APL-000081,REV-004,REMANDED,Political imagine door new cell.,False,2026-03-06
+43,APL-000059,REV-025,UPHELD,Item case face avoid military marriage.,False,2026-03-17
+44,APL-000067,REV-026,OVERTURNED,Computer time themselves hotel people expect.,False,2026-02-17
+45,APL-000075,REV-019,UPHELD,More feel message administration positive short before.,False,2026-03-06
+46,APL-000066,REV-019,OVERTURNED,Probably blood without sport.,False,2026-03-13
+47,APL-000052,REV-024,REMANDED,Than bar bill dinner executive.,False,2026-03-08
+48,APL-000069,REV-019,REMANDED,Upon fast order.,False,2026-03-09
+49,APL-000090,REV-002,REMANDED,May for board race phone recognize.,False,2026-02-25
+50,APL-000049,REV-009,REMANDED,Dinner operation door act.,False,2026-03-06
+51,APL-000017,REV-017,REMANDED,Section discussion partner set plant become.,False,2026-03-17
+52,APL-000042,REV-026,REMANDED,Color control others red save by.,False,2026-02-16
+53,APL-000001,REV-019,OVERTURNED,Tax soldier strategy citizen tax place.,False,2026-03-12
+54,APL-000071,REV-003,UPHELD,Future front than while meet race day leader.,False,2026-02-22
+55,APL-000076,REV-002,REMANDED,Dog plant affect animal social.,False,2026-02-07
+56,APL-000073,REV-025,OVERTURNED,Official realize break subject decade watch.,False,2026-02-28
+57,APL-000015,REV-023,UPHELD,Program consider computer skill watch under bank resource.,False,2026-03-03
+58,APL-000089,REV-002,REMANDED,Poor especially yard sell set.,False,2026-02-17
+59,APL-000008,REV-013,REMANDED,Letter ahead decision.,False,2026-03-04
+60,APL-000007,REV-030,REMANDED,President just event leader drive who.,False,2026-02-22
+61,APL-000032,REV-017,OVERTURNED,Half any star yet both.,False,2026-02-21
+62,APL-000002,REV-011,REMANDED,Wind adult play spend.,False,2026-03-16
+63,APL-000009,REV-012,REMANDED,Case writer job even save second.,False,2026-02-27
+64,APL-000045,REV-021,OVERTURNED,Theory practice per firm choose.,False,2026-02-24
+65,APL-000026,REV-004,REMANDED,Great about throughout friend surface must happen.,False,2026-02-17
+66,APL-000054,REV-029,OVERTURNED,Manager peace movement consider ahead.,False,2026-03-20
+67,APL-000068,REV-029,UPHELD,Person six maintain science cold believe course experience.,False,2026-02-22
+68,APL-000028,REV-028,REMANDED,Choice knowledge happy involve debate.,False,2026-02-15
+69,APL-000050,REV-007,OVERTURNED,Attorney like still whom all current effect.,False,2026-02-25
+70,APL-000065,REV-009,OVERTURNED,Walk meeting talk card he research.,False,2026-02-25
+71,APL-000031,REV-010,OVERTURNED,Reality necessary lawyer guess building material sell.,False,2026-03-20
+72,APL-000014,REV-022,REMANDED,Career four exactly cause.,False,2026-02-10
+73,APL-000048,REV-017,OVERTURNED,Hold company his must top major.,False,2026-02-13
+74,APL-000077,REV-006,UPHELD,His commercial kind member save.,False,2026-02-23
+75,APL-000025,REV-023,UPHELD,Be laugh clear where happen yeah.,False,2026-02-12
+76,APL-000085,REV-001,REMANDED,Between building if cover improve.,False,2026-03-19
+77,APL-000079,REV-029,REMANDED,Easy garden middle student hospital seat.,False,2026-02-26
+78,APL-000016,REV-023,OVERTURNED,Type report physical.,False,2026-02-15
+79,APL-000039,REV-018,REMANDED,Finish name let head eight power.,False,2026-02-21
+80,APL-000046,REV-029,OVERTURNED,Direction American administration market their smile view.,False,2026-02-25

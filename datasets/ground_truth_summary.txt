@@ -1,0 +1,13 @@
+ground_truth.csv — Generation Summary
+==================================================
+Generated at: 2026-10-31T17:28:49.760135 UTC
+Total labelled records: 111
+
+Breakdown by issue_type:
+  POST_DECISION_EVIDENCE                     67 rows
+  FLAG_TREATED_AS_GUILT                      34 rows
+  REVIEWER_CONFLICT                          10 rows
+
+IMPORTANT: This file is ground-truth only.
+Do NOT load it into the application database.
+Do NOT use it as an input feature without proper feature/label separation.

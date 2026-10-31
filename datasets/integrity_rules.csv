@@ -1,0 +1,11 @@
+rule_id,rule_name,min_similarity,max_similarity,action_type,priority,effective_from,effective_to,is_active
+RULE-001,Low Similarity,0.0,40.0,NO_REVIEW,1,2025-01-01,,True
+RULE-002,Moderate Similarity,41.0,70.0,MONITOR,2,2025-01-01,,True
+RULE-003,High Similarity,71.0,85.0,REVIEW,3,2025-01-01,,True
+RULE-004,Very High Similarity,86.0,100.0,HIGH_PRIORITY_REVIEW,4,2025-01-01,,True
+RULE-005,Very Low Similarity,0.0,20.0,NO_REVIEW,5,2025-01-01,,True
+RULE-006,Low-Mid Similarity,21.0,40.0,NO_REVIEW,6,2025-01-01,,True
+RULE-007,Lower Moderate Similarity,41.0,55.0,MONITOR,7,2025-01-01,,True
+RULE-008,Upper Moderate Similarity,56.0,70.0,MONITOR,8,2025-01-01,,True
+RULE-009,Lower High Similarity,71.0,78.0,REVIEW,9,2025-01-01,,True
+RULE-010,Upper High Similarity,79.0,85.0,REVIEW,10,2025-01-01,,True
